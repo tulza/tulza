@@ -1,14 +1,5 @@
 - 👋 Hi, I’m @tulza 
 - 👀 I like cat
--     we sacrifice you to cat (ゝωб)b
 
-      <!!!>
-      as to be clear. I did not kidnapped anyone. 
-      It does not count as kidnapping if they voluntary follow me, right? right? asking for a friend
-
- �  I’m currently learning code C#
-  🌱    I’m looking to 
-            -
-            -
-            -
-
+ �  Just a school student learning to code C# and making attempts to make a game 
+ Discord : Tulza_Otaku#8044
