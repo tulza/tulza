@@ -1,7 +1,7 @@
-## About me
-I'm Tulza! 👋
-Second year Compsci Bsc student.
-Discord : Tulza
+### Hello, I'm Tulza! 👋
+🎓 Second year Compsci Bsc student. <br/>
+🎯 Working as a Frontend developer for University of Auckland, web development & consulting club in UABC team <br/>
+🚀 My mission is to create sick looking uis.  
 
 ## Languages and tools
 ### Frontend
@@ -23,4 +23,11 @@ Discord : Tulza
 <img alt="Github" align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img alt="git" align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img alt="Figma" align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<br/><br/>
+<br/><br/><br/>
+
+<p align="center">
+    <img alt="my discord" title="Discord" src="https://img.shields.io/badge/Tulza-3152A0?style=for-the-badge&logo=Discord&logoColor=white"/>
+  <a href="https://tulza.github.io/Tulza-dev/">
+    <img alt="my Website" title="Website" src="https://img.shields.io/badge/my_website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
