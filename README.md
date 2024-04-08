@@ -28,8 +28,10 @@
 <br/><br/><br/>
 
 <p align="center">
-    <img alt="my discord" title="Discord" src="https://img.shields.io/badge/Tulza-3152A0?style=for-the-badge&logo=Discord&logoColor=white"/>
-  <a href="https://tulza.github.io/Tulza-dev/">
-    <img alt="my Website" title="Website" src="https://img.shields.io/badge/my_website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
+    <a href="#"><img alt="my discord" title="Discord" src="https://img.shields.io/badge/Tulza-3152A0?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+    <a href="https://tulza.github.io/Tulza-dev/">
+        <img alt="my Website" title="Website" src="https://img.shields.io/badge/my_website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    </a>
 </p>
+
+---
