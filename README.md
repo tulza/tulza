@@ -1,5 +1,5 @@
 ### Hello, I'm Tulza! 👋
-🎓 Second year Compsci Bsc student. <br/>
+🎓 penultimate year Compsci Bsc student. <br/>
 🎯 Working as a Frontend developer for University of Auckland, web development & consulting club in UABC team <br/>
 🚀 My mission is to create sick looking uis.  
 
