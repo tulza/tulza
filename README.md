@@ -31,7 +31,7 @@
 <p align="center">
     <a href="#"><img alt="my discord" title="Discord" src="https://img.shields.io/badge/Tulza-3152A0?style=for-the-badge&logo=Discord&logoColor=white"/></a>
     <a href="https://tulza.github.io/Tulza-dev/"><img alt="my Website" title="Website" src="https://img.shields.io/badge/my_website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-    <a href="https://tulza.github.io/Tulza-dev/"><img alt="my Website" title="Website" src="https://komarev.com/ghpvc/?username=Tulza&style=for-the-badge&label=PROFILE+VIEWS"/></a>
+    <a href="https://tulza.github.io/Tulza-dev/"><img alt="profile views" title="Website" src="https://komarev.com/ghpvc/?username=Tulza&style=for-the-badge&label=PROFILE+VIEWS"/></a>
 </p>
 
 ---
