@@ -24,5 +24,5 @@
 ---
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://upload.wikimedia.org/wikipedia/commons/4/49/A_black_image.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://previews.123rf.com/images/kozirsky/kozirsky1508/kozirsky150800141/43047099-close-up-of-a-woman-s-hand-touching-the-saturated-grass-feeling-nature.jpg');]{x0000}$}
 
