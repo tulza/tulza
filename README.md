@@ -21,8 +21,3 @@
     <a href="https://tulza.github.io/Tulza-dev/"><img alt="profile views" title="Website" src="https://komarev.com/ghpvc/?username=Tulza&style=for-the-badge&label=PROFILE+VIEWS"/></a>
 
 
----
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://previews.123rf.com/images/kozirsky/kozirsky1508/kozirsky150800141/43047099-close-up-of-a-woman-s-hand-touching-the-saturated-grass-feeling-nature.jpg');]{x0000}$}
-
