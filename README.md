@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,python,prisma,github,git,figma" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,python,prisma,github,git,figma,notion" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=,javascript,html,css,threejs,java,supabase,npm,pnpm,windows,vscode," />
+    <img src="https://skillicons.dev/icons?i=,javascript,html,css,threejs,java,rust,supabase,npm,pnpm,windows,vscode," />
     <br/>
   </a>
 </p>
